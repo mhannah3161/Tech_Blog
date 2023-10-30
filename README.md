@@ -14,7 +14,7 @@ This is a project which was developed for the University of Denver Bootcamp cour
 ## Usage 
 
 Clone the repo.
-Ceate a .env and make sure to include session secret. 
+Create a .env and make sure to include session secret. 
 Navigate to the root folder, run the following commands from the CLI:     
 
 Run Test;    
