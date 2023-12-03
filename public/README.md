@@ -35,4 +35,4 @@ Unlisenced for now...
 
 Live Deployed Application: [View Application]( "Live Deploy")      
 
-![Screenshot](//Tech_Blog/public/screenshorts/Screenshot%202023-10-30%20062818.png "Proof of Application")   
+![Screenshot](./screenshorts/Screenshot%202023-10-30%20062818.png "Proof of Application")   
